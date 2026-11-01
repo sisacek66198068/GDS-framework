@@ -1,0 +1,9 @@
+source_document,source_section,dt,r_min,units,model_note,data_status
+From Singularity to Stability,3,0.001,-0.0654,unspecified,Reported negative Rmin at coarse integration step,published_text_extraction
+From Singularity to Stability,3,0.0005,-0.0453,unspecified,Reported negative Rmin at coarse integration step,published_text_extraction
+From Singularity to Stability,3,0.0001,0.0424,unspecified,Original paper rounded result,published_text_extraction
+From Singularity to Stability,3,0.00001,0.0484,unspecified,Original paper rounded result,published_text_extraction
+Regenerative Metastability,4.1.2 Table 2,0.0001,0.04241,unspecified,Separate published convergence table,published_table_extraction
+Regenerative Metastability,4.1.2 Table 2,0.00005,0.04241,unspecified,Separate published convergence table,published_table_extraction
+Regenerative Metastability,4.1.2 Table 2,0.00002,0.04845,unspecified,Separate published convergence table,published_table_extraction
+Regenerative Metastability,4.1.2 Table 2,0.00001,0.04845,unspecified,Separate published convergence table,published_table_extraction
