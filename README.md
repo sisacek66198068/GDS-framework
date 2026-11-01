@@ -119,6 +119,12 @@ https://github.com/sisacek66198068/GSC-X
 
 **[Four CSV tables: GIGAALL, collapse RK4, finite-core masses and regenerative metastability](results/README.md)** — selected numbers transcribed from published papers; not raw terminal outputs or independent reruns.
 
+## Original Terminal Evidence / Originální výstupy
+
+Selected SHA-256-verified original CSV files:
+
+[Black-hole recycling model and GDS v4 passive corridor](results/original_terminal/README.md)
+
 ## Publications
 
 **[GDS Publication Evidence Map — papers, benchmark results, scope and limitations](publications/GDS_EVIDENCE_MAP.md)**
