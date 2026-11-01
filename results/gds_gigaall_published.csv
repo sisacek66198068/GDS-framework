@@ -1,0 +1,4 @@
+model,best_negative_log_likelihood,delta_vs_lcdm,source_document,source_section,data_status
+LCDM,1021.58,0.00,GDS v3 unified field framework,6.3 Table 6,published_table_extraction
+GDS_GSC,1020.10,-1.48,GDS v3 unified field framework,6.3 Table 6,published_table_extraction
+STRING_LIKE,1567.47,545.89,GDS v3 unified field framework,6.3 Table 6,published_table_extraction
