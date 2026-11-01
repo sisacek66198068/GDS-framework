@@ -1,0 +1,3 @@
+model_case,total_mass_kg,half_mass_radius_m,core_radius_m,core_mass_kg,core_mass_fraction,max_effective_density_kg_m3,peak_density_radius_m,source_document,source_section,data_status
+Sgr_A_star_scaled_model,1.865558e27,3124.532,1136.535,7.501198e25,0.040209,1.499999e16,1137.785,From Singularity to Stability,4.1,published_text_extraction
+M82_scaled_model,1.348404e27,2611.358,50.243,5.017000e23,0.000372,9.999556e17,1.000,From Singularity to Stability,4.2,published_text_extraction
