@@ -117,6 +117,9 @@ https://github.com/sisacek66198068/GSC-X
 
 ## Publications
 
+**[GDS Publication Evidence Map — papers, benchmark results, scope and limitations](publications/GDS_EVIDENCE_MAP.md)**
+
+
 ### GDS — Gravitational Dynamical System
 
 https://doi.org/10.5281/zenodo.20037474
