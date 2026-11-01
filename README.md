@@ -115,6 +115,10 @@ https://github.com/sisacek66198068/GSC-X
 
 ---
 
+## Published Numerical Results / Publikované numerické výsledky
+
+**[Four CSV tables: GIGAALL, collapse RK4, finite-core masses and regenerative metastability](results/README.md)** — selected numbers transcribed from published papers; not raw terminal outputs or independent reruns.
+
 ## Publications
 
 **[GDS Publication Evidence Map — papers, benchmark results, scope and limitations](publications/GDS_EVIDENCE_MAP.md)**
